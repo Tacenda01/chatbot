@@ -2,12 +2,10 @@
 
 ## Features
 
-- Real-time messaging using WebSockets  
-- Multi-user global chat  
+- Real-time messaging using WebSockets   
 - React frontend  
 - Django backend  
-- WebSocket server powered by Django Channels  
-- Auto-scrolling chat  
+- WebSocket server powered by Django Channels   
 - Press Enter to send messages  
 
 ---
