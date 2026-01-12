@@ -1,4 +1,4 @@
-# Real-Time Chatbot (React + Django + WebSockets)
+# Chatbot (React + Django + WebSockets)
 
 ## Features
 
@@ -28,7 +28,7 @@
 
 ```
 
-realtime-chatbot/
+chatbot/
 ├── backend/
 │   ├── manage.py
 │   ├── backend/
@@ -57,8 +57,8 @@ Follow these steps to run the chatbot on your own system.
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/Tacenda01/realtime-chatbot.git
-cd realtime-chatbot
+git clone https://github.com/Tacenda01/chatbot.git
+cd chatbot
 ````
 
 ---
